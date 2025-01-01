@@ -1,1 +1,3 @@
-# 2025_Portfolio
+### License
+
+This project is **free to use** and does not contains any license.
